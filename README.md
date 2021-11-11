@@ -1,4 +1,3 @@
 # Peta-Pemanah-handal
-Solved
 
-<img src='https://64.media.tumblr.com/197db606b89e62baf01289a1e7680b67/tumblr_ottghpdP6G1qzweloo1_500.gifv' width='500'>
+<img src='https://64.media.tumblr.com/197db606b89e62baf01289a1e7680b67/tumblr_ottghpdP6G1qzweloo1_500.gifv' width='400'>
